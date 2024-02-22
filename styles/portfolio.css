@@ -91,3 +91,29 @@ nav a {
     font-weight: 400;
     line-height: 30px;
 }
+
+/* Section related styles */
+
+.section-title {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.section-description {
+    color: #757575;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+/* about section styles */
+
+.about-section {
+    margin: 130px 0;
+    padding: 130px;
+    border-radius: 10px;
+    background: #FFF8F3;
+}
